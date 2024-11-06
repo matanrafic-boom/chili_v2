@@ -1,6 +1,8 @@
-echo "streamlit==1.39.0
+requirements.txt << EOL
+streamlit==1.39.0
 pandas==1.5.3
 requests==2.31.0
 python-dotenv==1.0.0
 protobuf==4.21.12
-numpy==1.24.3" > requirements.txt
+numpy==1.24.3
+EOL
