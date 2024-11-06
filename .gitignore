@@ -13,3 +13,7 @@ promt.md
 prompt.md
 templates/
 Chili queus/
+
+# Additional files to ignore
+audit.db
+requirements.txt.save
