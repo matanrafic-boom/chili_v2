@@ -1,0 +1,15 @@
+# Environment and secrets
+.env
+.streamlit/secrets.toml
+chili_env/
+
+# Cache files
+__pycache__/
+*.pyc
+
+# Documentation and extras
+chili-openapi.json
+promt.md
+prompt.md
+templates/
+Chili queus/
